@@ -1,0 +1,45 @@
+﻿<html>
+<html>
+<head>
+    <title>WPD-PR18.EX1</title>
+</head>
+<body>
+    <h1>Nested Table</h1>
+    <table border="double" style="text-align:center">
+        <tr style="background-color:lightgrey">
+            <th>Name</th>
+            <th>Image</th>
+            <th>Category</th>
+        </tr>
+        <tr>
+            <td>Tiger</td>
+            <td><img src="tiger.jpg" height="150" width="200" alt="Photo of XYZ" border="2"></td>
+            <td>Animal</td>
+        </tr>
+        <tr>
+            <td>Eagle</td>
+            <td><img src="eagle.jpeg" height="150" width="200" alt="Photo of XYZ" border="2"></td>
+            <td>Bird</td>
+        </tr>
+        <tr>
+            <td>Rabbit</td>
+            <td><img src="rabbit.jpg" height="150" width="200" alt="Photo of XYZ" border="2"></td>
+            <td>Animal</td>
+        </tr>
+        <tr>
+            <td>Parrot</td>
+            <td><img src="parrot.webp" height="150" width="200" alt="Photo of XYZ" border="2"></td>
+            <td>Bird</td>
+        </tr>
+    </table>
+
+    <h2>Contact Information </h2>
+    <p><b><u>Name</u>:</b><i>Akshada B Kangane</i></p>
+    <address>
+        MET's institute of technology polytechnic <br />
+        Department of Information Technology <br />
+        Email:ictabk64@gmail.com<br />
+        Phone:7854635567<br />
+    </address>
+</body>
+</html>
